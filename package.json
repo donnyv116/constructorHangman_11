@@ -1,0 +1,25 @@
+{
+  "name": "hangman",
+  "version": "1.0.0",
+  "description": "\"hangman game with node.js\"",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donnyv116/constructorHangman_11.git"
+  },
+  "keywords": [
+    "week_11"
+  ],
+  "author": "Donny Vanasse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donnyv116/constructorHangman_11/issues"
+  },
+  "homepage": "https://github.com/donnyv116/constructorHangman_11#readme",
+  "dependencies": {
+    "inquirer": "^5.0.1"
+  }
+}
